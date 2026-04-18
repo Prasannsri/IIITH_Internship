@@ -1,0 +1,5 @@
+myenv/
+runs/
+*.avi
+*.pt
+__pycache__/
