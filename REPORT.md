@@ -1,3 +1,10 @@
+Week 04 - YOLO Dataset Configuration Analysis 
+
+
+YOLO (You Only Look Once) is a real-time object detection model that relies on configuration 
+(meta) files to define dataset structure, class labels, and training parameters. These files play a 
+crucial role in training and evaluating object detection models. 
+
 # YOLO Dataset Configuration and Meta Files Report
 Name: Prasannasri  
 Course: CSE (AIML)  
