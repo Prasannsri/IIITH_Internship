@@ -3,3 +3,19 @@ runs/
 *.avi
 *.pt
 __pycache__/
+# YOLO / training outputs
+runs/
+
+# Dataset (optional - keep if large)
+dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
